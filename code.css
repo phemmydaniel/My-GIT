@@ -5,3 +5,7 @@ p{
     color: white;
     background: salmon;
 }
+span{
+    text-align: center;
+    color: red;
+}
